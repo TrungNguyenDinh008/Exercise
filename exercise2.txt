@@ -1,0 +1,1 @@
+The HTML <thead> tag is used in adding a header to a table, determining the head part of the table.

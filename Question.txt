@@ -1,0 +1,9 @@
+1. Create a table with <table> tag containing <tr> <th> <td>  tag 
+2. Tell me where <thead> tag is used in <table> 
+3. Tell me where <tbody> tag is used in <table> 
+4. Create 1 table <table> add <thead> tag and <body> tag 
+5. Please explain the <form> tag 
+6. Please explain the <input> tag 
+7. Please explain the <label> tag 
+8. Create 3 <input> tags and add different attributes to it 
+9. Create a <form> action : mail tag to handle. including  <label> and <input> tag 

@@ -1,0 +1,1 @@
+The HTML <form> tag is an element used to create an interactive section on a web page allowing visitors to submit information to a web server.
