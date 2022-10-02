@@ -1,0 +1,2 @@
+The <style> tag is used to decorate for a document.
+Inside the <style> elements will specify how HTML elements should render in viewport.
