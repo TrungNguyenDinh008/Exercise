@@ -1,0 +1,33 @@
+.Header {
+    margin: 100px;
+}
+#Head {
+    padding: 100px;
+}
+#Cloud {
+    position: absolute;
+    top: 200px;
+    left: 400px;
+}
+#second-divison {
+    font-family: 'Timmana', sans-serif;
+}
+#Sun {
+    float: right;
+}
+.content {
+   clear: right;
+}
+#third-divison {
+    display: inline-block;
+    padding: 30px;
+    background-color: aquamarine;
+}
+#fourth-divison {
+    display: inline-block;
+    padding: 30px;
+    background-color: bisque;
+}
+.pro {
+    color: blue;
+}
